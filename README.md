@@ -1,6 +1,8 @@
 # Circular-Buffer
+Exam-structured programming
+My grade: G 
 C++ basic circular buffer
-Exam Jan 2024
+Exam 24-1 2024
 
     Use a template type (T) and a non-type(N) template parameters.
     A buffer is an array of type T and has N elements
